@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LPieces/LPieces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi👋, I'm LPieces，a front-end developer👨‍💻
+
+博客：[LPieces's Blog](https://lpieces.cc) / 掘金：[LPieces](https://juejin.cn/user/176367608019806) / 公众号：[俊豪前端](https://juejin.cn/user/176367608019806)
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+
+![LPieces's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPieces&show_icons=true&include_all_commits=true)
