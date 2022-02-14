@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi👋, I'm LPieces，a front-end developer👨‍💻
 
-博客：[LPieces's Blog](https://lpieces.cc) / 掘金：[LPieces](https://juejin.cn/user/176367608019806) / 公众号：[俊豪前端](https://raw.githubusercontent.com/LPieces/lpieces.github.io/dev/jhweb.png)
+博客：[LPieces's Blog](https://lpieces.cc) / 掘金：[LPieces](https://juejin.cn/user/176367608019806) / 公众号：[俊豪前端](https://github.com/LPieces/lpieces.github.io/blob/dev/jhweb.png?raw=true)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
